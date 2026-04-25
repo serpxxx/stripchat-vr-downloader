@@ -1,4 +1,4 @@
-# StripchatVR Downloader
+# StripchatVR Downloader Browser Extension
 
 > Record Stripchat VR live streams and download saved VR videos as MP4 with playback-friendly metadata preserved where available.
 
