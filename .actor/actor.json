@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Stripchat VR Downloader listing and downloader workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "stripchat-vr-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Stripchat VR Downloader",
+  "version": "0.0"
+}
