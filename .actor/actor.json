@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "stripchat-vr-downloader",
   "readme": "../ACTOR.md",
-  "title": "Stripchat VR Downloader",
+  "title": "StripchatVR Downloader Browser Extension",
   "version": "0.0"
 }
