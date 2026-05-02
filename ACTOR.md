@@ -9,6 +9,11 @@ StripchatVR Downloader is a browser extension built for immersive video workflow
 - Preserve useful VR playback metadata when the source provides it
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier playback on standard players and compatible VR setups
+
+## Get it Here
+
+Get it here: https://serp.ly/stripchat-vr-video-downloader
+
 ## Table of Contents
 
 - [Why StripchatVR Downloader](#why-stripchatvr-downloader)
