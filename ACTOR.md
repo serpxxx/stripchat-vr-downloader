@@ -1,6 +1,12 @@
-# StripchatVR Downloader
+# StripchatVR Video Downloader | How to Download StripchatVR Videos
 
 > Record Stripchat VR live streams and download saved VR videos as MP4 with playback-friendly metadata preserved where available.
+
+## Get it Here
+
+Get it here: https://serp.ly/stripchat-vr-video-downloader
+
+![StripchatVR Downloader](https://raw.githubusercontent.com/serpxxx/stripchat-vr-downloader/main/assets/workflow-preview.webp)
 
 StripchatVR Downloader is a browser extension built for immersive video workflows. It helps you keep Stripchat VR live sessions and saved recordings available offline, while preserving useful VR playback details when the source exposes them. The result is a simpler browser-based path from live room to local MP4 file.
 
@@ -9,11 +15,6 @@ StripchatVR Downloader is a browser extension built for immersive video workflow
 - Preserve useful VR playback metadata when the source provides it
 - Choose from the stream qualities exposed on the page
 - Save MP4 files for easier playback on standard players and compatible VR setups
-
-## Get it Here
-
-Get it here: https://serp.ly/stripchat-vr-video-downloader
-
 ## Table of Contents
 
 - [Why StripchatVR Downloader](#why-stripchatvr-downloader)
